@@ -27,6 +27,5 @@ class MainActivity : AppCompatActivity() {
             println("peso + altura")
         }
 
-
     }
 }
