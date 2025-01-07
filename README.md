@@ -4,10 +4,18 @@ Esse projeto é um aplicativo Android nativo desenvolvido com a linguagem de pro
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src"![Screen_one](https://github.com/user-attachments/assets/ba60245f-f671-4aa6-a26c-77606e2a2db8)
-"Width="260"/><img src"![Screen_two](https://github.com/user-attachments/assets/135d8e57-89d8-48d0-aed9-064b71164de7)
-"Width=260/>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/9131c8aa-837f-4e04-9fcc-08ac4dd8d4dd" alt="Screen_one" width="200"/>
+   <img src="https://github.com/user-attachments/assets/3260df2d-e37a-43ed-a938-e7ac99523bd5" alt="Screen_two" width="200"/>
 
+   </p>
+
+   ---
+
+   
+  
+
+  
 ## Tecnologias
 - Activity
 - Intent
