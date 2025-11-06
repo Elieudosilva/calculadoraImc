@@ -2,7 +2,7 @@
 Esse projeto é um aplicativo Android nativo desenvolvido com a linguagem de programação koltin tem com pricipal funcionalidade, fazer o calculo do IMC e mostrar o resultado na tela seguinte.
 
 
-## :camera_flash: Screenshots
+## :camera_flash: APLICATIVO
 <!-- You can add more screenshots here if you like -->
 <p align="center">
    <img src="https://github.com/user-attachments/assets/9131c8aa-837f-4e04-9fcc-08ac4dd8d4dd" alt="Screen_one" width="200"/>
