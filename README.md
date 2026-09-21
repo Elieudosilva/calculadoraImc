@@ -1,4 +1,4 @@
-# ⚖️ IMCCalculator
+# ⚖️ CalculatoraIMC
 
 Aplicativo Android nativo para cálculo do Índice de Massa Corporal (IMC), focado em auxiliar os usuários a monitorarem sua faixa de peso e saúde.
 
@@ -7,7 +7,7 @@ Aplicativo Android nativo para cálculo do Índice de Massa Corporal (IMC), foca
 
 ## 📋 Sobre o projeto
 
-O **IMCCalculator** é um aplicativo Android desenvolvido com foco em consolidar os fundamentos da programação Android nativa (XML + Kotlin). 
+O **CalculatoraIMC** é um aplicativo Android desenvolvido com foco em consolidar os fundamentos da programação Android nativa (XML + Kotlin). 
 
 O app recebe o peso e a altura do usuário e, com base no cálculo matemático oficial do IMC (peso ÷ altura²), indica instantaneamente em qual categoria a pessoa se encontra (ex: Abaixo do peso, Peso normal, Sobrepeso, Obesidade).
 
