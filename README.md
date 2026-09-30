@@ -15,12 +15,14 @@ Este projeto foi desenvolvido como resolução de um desafio prático proposto p
 
 ## 📸 Screenshots
 
-| Tela Inicial (Cálculo) | Tela de Resultado |
+| Tela Splash| Tela Inicial (Cálculo) | Tela de Resultado |
 |:---:|:---:|
 <!-- You can add more screenshots here if you like -->
 <p align="center">
+   <img src="https://github.com/user-attachments/assets/3a1b2678-76ea-44ba-9952-fadc0845e7fc" alt="Screen_one" width="192" />
+
    <img src="https://github.com/user-attachments/assets/9131c8aa-837f-4e04-9fcc-08ac4dd8d4dd" alt="Screen_one" width="200"/>
-   <img src="https://github.com/user-attachments/assets/3260df2d-e37a-43ed-a938-e7ac99523bd5" alt="Screen_two" width="200"/>
+   <img src="https://github.com/user-attachments/assets/3260df2d-e37a-43ed-a938-e7ac99523bd5" alt="Screen_two" width="200"/> 
    </p>
 
    
