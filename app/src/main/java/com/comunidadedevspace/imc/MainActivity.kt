@@ -14,9 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         val edtPeso = findViewById<TextInputEditText>(R.id.edt_peso)
         val edtAltura = findViewById<TextInputEditText>(R.id.edt_altura)
-
         val btnCalcular = findViewById<Button>(R.id.btn_Calcular)
-
 
         btnCalcular.setOnClickListener {
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+android:width="80dp"
+android:height="80dp"
+android:viewportWidth="100"
+android:viewportHeight="100">
+
+<!-- Borda arredondada -->
+<path
+    android:pathData="M20,6 H80 A14,14 0 0 1 94,20 V80 A14,14 0 0 1 80,94 H20 A14,14 0 0 1 6,80 V20 A14,14 0 0 1 20,6 Z"
+    android:strokeColor="@color/white"
+    android:strokeWidth="5" />
+
+<!-- Corpo da balança com o "mostrador" vazado -->
+<path
+    android:fillColor="@color/white"
+    android:fillType="evenOdd"
+    android:pathData="M22,64 A28,28 0 0 1 78,64 Z M36,56 A14,14 0 0 1 64,56 Z" />
+
+<!-- Ponteiro -->
+<path
+    android:fillColor="@color/white"
+    android:pathData="M50,56 L46,47 L54,47 Z" />
+</vector>
