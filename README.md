@@ -15,8 +15,7 @@ Este projeto foi desenvolvido como resolução de um desafio prático proposto p
 
 ## 📸 Screenshots
 
-| Tela Splash| Tela Inicial (Cálculo) | Tela de Resultado |
-|:---:|:---:|
+| Tela Splash | Tela Inicial (Cálculo) | Tela de Resultado |
 <!-- You can add more screenshots here if you like -->
 <p align="center">
    <img src="https://github.com/user-attachments/assets/3a1b2678-76ea-44ba-9952-fadc0845e7fc" alt="Screen_one" width="192" />
